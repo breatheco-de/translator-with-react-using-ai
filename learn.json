@@ -1,0 +1,20 @@
+{
+	"title": {
+	  "us": "Create a Multi-Language Translator in React using ChatGPT",
+	  "es": "Crea un Traductor Multilingüe en React usando ChatGPT"
+	},
+	"slug": "multi-language-translator-react-chatgpt",
+	"status": "published",
+	"duration": 4,
+	"preview": "https://storage.googleapis.com/screenshots-breathecode/multi-language-translator-preview.png",
+	"translations": ["es", "us"],
+	"difficulty": "intermediate",
+	"technologies": ["javascript", "react", "prompt-engineer", "generative-ai"],
+	"description": {
+	  "us": "Build a Multi-Language Translator in React using ChatGPT! Create an app where users can translate text into different languages using AI. Improve your React and AI skills with this project!",
+	  "es": "¡Crea un Traductor Multilingüe en React usando ChatGPT! Crea una app donde los usuarios puedan traducir texto a diferentes idiomas con IA. Mejora tus habilidades en React e IA con este proyecto."
+	},
+	"autoPlay": false,
+	"projectType": "project"
+  }
+  
