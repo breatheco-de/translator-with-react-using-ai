@@ -6,6 +6,7 @@
 	"slug": "multi-language-translator-react-chatgpt",
 	"status": "published",
 	"duration": 4,
+	"template_url": "https://github.com/4GeeksAcademy/react-hello",
 	"preview": "https://storage.googleapis.com/screenshots-breathecode/multi-language-translator-preview.png",
 	"translations": ["es", "us"],
 	"difficulty": "intermediate",
