@@ -2,7 +2,7 @@
 # Create a Multi-Language Translator in React using ChatGPT
 <!-- endhide -->
 
-<!-- howtostart -->
+<onlyfor saas="true" withBanner="true">...</onlyfor>
 ## 🌱 How to start this project?
 
 Do not clone this repository because we are going to use a different template.
@@ -16,7 +16,7 @@ https://github.com/4GeeksAcademy/react-hello
 ```
 
 > ⚠ You will need to have Node.js installed if you do it locally, but all of that is already installed on Codespaces or Gitpod!
-<!-- endhowtostart -->
+</onlyfor>
 
 ## 📝 Instructions
 
