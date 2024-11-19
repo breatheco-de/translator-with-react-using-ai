@@ -2,7 +2,7 @@
 # Create a Multi-Language Translator in React using ChatGPT
 <!-- endhide -->
 
-<onlyfor saas="true" withBanner="true">...</onlyfor>
+<onlyfor saas="true" withBanner="true">
 ## 🌱 How to start this project?
 
 Do not clone this repository because we are going to use a different template.
